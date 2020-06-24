@@ -1,2 +1,3 @@
-- title: "Just A Typed Blog"
-- author: "Typedblog Official"
+config:
+  - title: "Just A Typed Blog"
+  - author: "Typedblog Official"
