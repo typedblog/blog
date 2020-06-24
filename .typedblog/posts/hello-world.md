@@ -12,3 +12,8 @@ Hello World!
 [TEST RENDER LINK](https://google.com)
 
 ### HEading Number 3
+
+```javascript
+// test syntax highlight
+const a = "123"
+```
